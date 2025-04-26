@@ -60,7 +60,7 @@ copy the `.env.example` in `.env` and configure the environment variables
 - Push the database schema to the database:
 
 ```bash
-pnpm run prisma:push
+pnpm prisma:push
 ```
 
 - (Optional) Start Prisma Studio to visualize your database:
