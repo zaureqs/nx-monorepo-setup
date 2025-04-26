@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=20"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "@remix-run/serve": "^2.16.5"
+  }
+}
